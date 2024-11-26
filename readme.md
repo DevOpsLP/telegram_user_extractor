@@ -59,5 +59,5 @@ The project is divided into several modules to handle different parts of the app
 - If you encounter "FloodWaitError", it means you need to wait for some time before retrying the same action.
 
 ## Next Steps
-For a detailed description of each feature, visit the [Wiki](#) section. We will continue to document every aspect of this project as we proceed, including individual components and their usage.
+For a detailed description of each feature, visit the [Wiki](https://github.com/DevOpsLP/telegram_user_extractor/wiki) section. We will continue to document every aspect of this project as we proceed, including individual components and their usage.
 
